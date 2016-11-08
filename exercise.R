@@ -1,1 +1,1 @@
-This is a new exercise
+x <- 50
